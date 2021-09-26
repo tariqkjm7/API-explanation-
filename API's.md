@@ -3,7 +3,15 @@
 ## location-IQ
 
 `*this is the description and the usage for* **locationIQ**`
-* **locationIQ:** flexible enterprise-grade location-based solutions. they work with developers, startups, and enterprises worldwide serving billions of requests every day. This website provides an overview of the technical aspects of our API
+* **locationIQ:** flexible enterprise-grade location-based solutions. they work with developers, startups, and enterprises worldwide serving billions of requests every day. This website provides an overview of the technical aspects of our API by **`access token`**
+
+
+
+
+
+
+
+
 they are sending many data types depends on the user requests so the user will get the data about the location and latitude and longitude and many things.
 also, they are sending images for the country or the city
 or anything the user asks for.
@@ -12,7 +20,7 @@ or anything the user asks for.
 **`All the user requests that sent  to LocationIQ's APIs or Map tiles needs to be authenticated with an access token(authentiction key).`**
 
 ## **what is the authentiction key or access token.** 
-**`note`*** :This authentiction declaration for all API's
+
 <br>
 authentication is the property obtained when performing a key establishment protocol ( Key Agreement and Key Management) and one entity has the assurance that only a particularly identified other party may possibly know the request or anything else about the key itself.
 <br>
@@ -37,6 +45,10 @@ GET `https://eu1.locationiq.com/v1/search.php?key=YOUR_ACCESS_TOKEN&q=SEARCH_STR
 
 *this is the description for **`weather-bit`**
 <br>
+
+
+
+
 With their Weather API, you can retrieve current weather observations from over 47,000 live weather stations, and historical weather data for the past 10+ years sourced from over 120,000 stations, doppler radar, satellite, and atmospheric reanalysis products. As well as highly localized weather forecasts for any point on the globe using the world's most trusted weather models!
 
 the user can look up weather data by many methods including:
@@ -62,6 +74,9 @@ the user could use this API for many reasons such as:
 * Visibility
 
 
+## **what is the authentiction key or access token.** 
+
+Each request to **`Weatherbit`** APIs needs to be authenticated with an **`Master` API Key**.
 
 
 all the requests can be sent to **`endpoints`**
@@ -75,7 +90,9 @@ GET = `https://api.weatherbit.io/v2.0/forecast/daily?city=CITY&key=KEY`
 *this is the description for**`TMDB (MOVIE)`***
 The Movie Database (TMDB) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. TMDb's strong international focus and breadth of data is largely unmatched and something we're incredibly proud of. Put simply, we live and breathe community and that's precisely what makes us different.
 
+## **what is the authentiction key or access token.** 
 
+Each one of requests to **`TMDB`** APIs needs to be autharized  with an **API Key**.
 
 
 They will let the user Discover movies by different types of data like average rating, number of votes, genres, and certifications. You can get a valid list of certifications.
@@ -96,8 +113,13 @@ GET = `https://api.themoviedb.org/3/search/movie?api_key=<<api_key>>&language=en
 <br>
 <br>
 
+### repo links
 
-##### resorcses used:
+[BACKEND](https://github.com/tariqkjm7/Full-stack)
+
+[FRONTEND](https://github.com/tariqkjm7/city-Exploler)
+
+#### resorcses used:
 [weatherbit](https://www.weatherbit.io/)
 
 [locationIQ](https://locationiq.com/)
