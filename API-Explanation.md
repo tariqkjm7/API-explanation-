@@ -57,7 +57,15 @@ REST | SOAP
 
 [WEBSITE LINK](https://tariqs-city-explorer.netlify.app/)
 
+### repo links
 
+[BACKEND](https://github.com/tariqkjm7/Full-stack)
+
+[FRONTEND](https://github.com/tariqkjm7/city-Exploler)
+
+### live links
+[netlify link](https://tariqs-city-explorer.netlify.app/)
+[heroku link](https://tariqs-city-explorer.herokuapp.com/)
 
  #### resorcses used:
 

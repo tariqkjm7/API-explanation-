@@ -119,6 +119,10 @@ GET = `https://api.themoviedb.org/3/search/movie?api_key=<<api_key>>&language=en
 
 [FRONTEND](https://github.com/tariqkjm7/city-Exploler)
 
+### live links
+[netlify link](https://tariqs-city-explorer.netlify.app/)
+[heroku link](https://tariqs-city-explorer.herokuapp.com/)
+
 #### resorcses used:
 [weatherbit](https://www.weatherbit.io/)
 
